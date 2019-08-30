@@ -1,2 +1,2 @@
 NIM : 
-1 Muhammad Agridzadhan7a (120118416)
+1 Muhammad Agridzadhana (120118416)
