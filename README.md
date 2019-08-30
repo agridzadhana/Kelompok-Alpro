@@ -1,4 +1,4 @@
-NIM KELOMPOK : 
+NIM KELOMPOK (TI-42-12): 
 1. Farah Delfa Nurhanifa      (1201184224)
 2. Hafizhah Khaerani          (1201183395) 
 3. Muhammad Agridzadhana      (1201184167)
