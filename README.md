@@ -1,5 +1,5 @@
-NIM : 
-1. Farah Delfa Nurhanifa      ()
+NIM KELOMPOK : 
+1. Farah Delfa Nurhanifa      (1201184224)
 2. Hafizhah Khaerani          (1201183395) 
 3. Muhammad Agridzadhana      (1201184167)
 3. Muhammad Dimas Firdaus     ()
